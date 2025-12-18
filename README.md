@@ -1,3 +1,3 @@
 # jobs-tip-page
 Multimedia player
-<img width="1358" height="606" alt="Screenshot1" src="https://github.com/user-attachments/assets/7dacde01-ff30-4aa9-9761-a5a3cccc54e2" />
+<img width="1359" height="612" alt="Screenshot_2025-12-18_21-49-49" src="https://github.com/user-attachments/assets/50feeeab-75dd-4512-94fd-68a09fc45468" />
